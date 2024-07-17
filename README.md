@@ -1,1 +1,3 @@
-# stepik-java-web-service
+# Разработка веб сервиса на Java
+
+## [Модуль 1](module_1)
