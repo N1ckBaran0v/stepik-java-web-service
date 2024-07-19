@@ -12,7 +12,7 @@ class AccountService {
 
     public String signIn(String login, String password) {
         String real = accounts.getOrDefault(login, null);
-        if (real != null) {
+        if (password.equals(real)) {
             return login;
         }
         return null;
