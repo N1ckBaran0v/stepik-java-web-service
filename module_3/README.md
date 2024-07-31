@@ -70,3 +70,5 @@ http://localhost:8080/signup
 запускает ваш сервер, ждет пока "Server started",
 посылает POST запрос на
 http://localhost:8080/signin
+
+[Вернуться на главную страницу](../)

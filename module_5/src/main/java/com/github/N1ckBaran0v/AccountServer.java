@@ -1,8 +1,5 @@
 package com.github.N1ckBaran0v;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class AccountServer implements  AccountServerInterface{
     private int usersLimit = 10;
 
