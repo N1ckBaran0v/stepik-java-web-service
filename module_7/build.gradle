@@ -13,8 +13,6 @@ repositories {
 dependencies {
     testImplementation platform('org.junit:junit-bom:5.10.0')
     testImplementation 'org.junit.jupiter:junit-jupiter'
-    implementation 'org.eclipse.jetty:jetty-server:9.3.0.M0'
-    implementation 'org.eclipse.jetty:jetty-webapp:9.3.0.M0'
 }
 
 test {
